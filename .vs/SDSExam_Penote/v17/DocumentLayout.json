@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|c:\\users\\kep.itojtdev\\source\\repos\\sdsexam_penote\\sdsexam_penote\\models\\recyclableitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\models\\recyclableitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\controllers\\recyclableitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\controllers\\recyclableitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\controllers\\recyclabletypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\controllers\\recyclabletypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\models\\recyclabletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\models\\recyclabletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\models\\recyclabletypedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\models\\recyclabletypedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\models\\recyclableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\models\\recyclableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclabletype\\_formfields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclabletype\\_formfields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclableitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclableitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclableitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclableitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclableitem\\_recyclableitemform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclableitem\\_recyclableitemform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclabletype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclabletype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclableitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclableitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclabletype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclabletype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclableitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclableitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclabletype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclabletype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\views\\recyclabletype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\views\\recyclabletype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\sdsexam_penote\\models\\recyclabletype.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9E255BE-AA9B-4180-BAF6-D8DB9B79D627}|SDSExam_Penote\\SDSExam_Penote.csproj|solutionrelative:sdsexam_penote\\models\\recyclabletype.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecyclableItem.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableItem.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Models\\RecyclableItem.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableItem.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Models\\RecyclableItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:44:45.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecyclableItemDAL.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableItemDAL.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Models\\RecyclableItemDAL.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableItemDAL.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Models\\RecyclableItemDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:38:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecyclableType.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableType.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Models\\RecyclableType.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableType.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Models\\RecyclableType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:54:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecyclableTypeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableTypeDAL.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Models\\RecyclableTypeDAL.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableTypeDAL.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Models\\RecyclableTypeDAL.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:50:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecyclableItemController.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Controllers\\RecyclableItemController.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Controllers\\RecyclableItemController.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Controllers\\RecyclableItemController.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Controllers\\RecyclableItemController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:19:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecyclableTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Controllers\\RecyclableTypeController.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Controllers\\RecyclableTypeController.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Controllers\\RecyclableTypeController.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Controllers\\RecyclableTypeController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:53:44.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_FormFields.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\_FormFields.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableType\\_FormFields.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\_FormFields.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableType\\_FormFields.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T01:01:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableItem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Delete.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableItem\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T05:14:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Create.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableItem\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T07:10:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_RecyclableItemForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\_RecyclableItemForm.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableItem\\_RecyclableItemForm.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\_RecyclableItemForm.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableItem\\_RecyclableItemForm.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T05:29:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Web.config",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Web.config",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Web.config",
+              "RelativeToolTip": "SDSExam_Penote\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-15T00:54:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\Web.config",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\Web.config",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-15T00:54:32.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Create.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableType\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Create.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableType\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T02:43:10.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SDSExam_Penote\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:41:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Delete.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableType\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T01:00:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Edit.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableItem\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T06:25:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableItem\\Index.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableItem\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T05:13:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Index.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Index.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableType\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T02:50:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Views\\RecyclableType\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Views\\RecyclableType\\Edit.cshtml",
+              "RelativeToolTip": "SDSExam_Penote\\Views\\RecyclableType\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T02:48:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Global.asax.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:41:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "SDSExam_Penote\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:07:10.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "SDSExam_Penote\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:07:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecyclableType.cs",
+              "DocumentMoniker": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableType.cs",
+              "RelativeDocumentMoniker": "SDSExam_Penote\\Models\\RecyclableType.cs",
+              "ToolTip": "C:\\Users\\KEP.ITOJTDev\\source\\repos\\SDSExam_Penote\\SDSExam_Penote\\Models\\RecyclableType.cs",
+              "RelativeToolTip": "SDSExam_Penote\\Models\\RecyclableType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:50:04.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
