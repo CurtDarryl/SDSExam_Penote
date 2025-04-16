@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SDSExam_Penote.Models.RecyclableItem>
+
+@{
+    ViewBag.Title = "Recyclable Items";
+}
+
+<h2>Recyclable Items</h2>
+
+<p>
+    @Html.ActionLink("Add New", "Create")
+</p>
+
+<p>
+    @Html.ActionLink("Add Recyclable Type", "Create", "RecyclableType", null, new { @class = "btn btn-success" })
+</p>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Recyclable Type Id</th>
+            <th>Description</th>
+            <th>Weight</th>
+            <th>Computed Rate</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.RecyclableTypeId</td>
+                <td>@item.ItemDescription</td>
+                <td>@item.Weight</td>
+                <td>@item.ComputedRate</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-primary btn-sm">Edit</a> |
+                    <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

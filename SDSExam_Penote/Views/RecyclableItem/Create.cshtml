@@ -1,0 +1,74 @@
+﻿@model SDSExam_Penote.Models.RecyclableItem
+@{
+    ViewBag.Title = "Recyclable Item";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <div class="form-group">
+        <label>Recyclable Type</label>
+        @Html.DropDownListFor(model => model.RecyclableTypeId, (SelectList)ViewBag.RecyclableTypes, "Select Type", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Item Description</label>
+        @Html.TextBoxFor(model => model.ItemDescription, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Weight)
+        @Html.TextBoxFor(model => model.Weight, new { @class = "form-control", @id = "weight" })
+    </div>
+
+@*    <div class="form-group">
+        <label>Computed Rate</label>
+        <input type="text" id="computedRate" class="form-control" readonly />
+    </div>*@
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-success" />
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+}
+
+
+@*@section Scripts {
+    <script>
+        let typeRates = @Html.Raw(Json.Encode(ViewBag.RecyclableTypesJson));
+
+        function computeRate() {
+            let typeId = parseInt($('#RecyclableTypeId').val());
+            let weight = parseFloat($('#weight').val());
+
+            if (!isNaN(typeId) && !isNaN(weight)) {
+                let selectedType = typeRates.find(x => x.Id === typeId);
+
+                if (selectedType) {
+                    if (weight < selectedType.MinKg || weight > selectedType.MaxKg) {
+                        alert(`Weight must be between ${selectedType.MinKg} and ${selectedType.MaxKg}`);
+                        $('#weight').val('');
+                        $('#computedRate').val('');
+                    } else {
+                        let computed = weight * selectedType.Rate;
+                        $('#computedRate').val(computed.toFixed(2));
+                    }
+                }
+            } else {
+                $('#computedRate').val('');
+            }
+        }
+
+        $(document).ready(function () {
+            $('#RecyclableTypeId, #weight').on('change keyup', computeRate);
+        });
+    </script>
+}
+*@

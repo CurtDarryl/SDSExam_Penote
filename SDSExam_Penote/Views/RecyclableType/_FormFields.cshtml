@@ -1,0 +1,36 @@
+﻿@model SDSExam_Penote.Models.RecyclableType
+
+@using System.Web.Mvc
+@using System.Web.Mvc.Html
+
+<div class="form-group">
+    @Html.LabelFor(model => model.Type, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.TextBoxFor(model => model.Type, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Type)
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.Rate, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.Rate, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Rate)
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.MinKg, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.MinKg, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.MinKg)
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(model => model.MaxKg, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.MaxKg, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.MaxKg)
+    </div>
+</div>

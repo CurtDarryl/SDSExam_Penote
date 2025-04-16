@@ -1,0 +1,29 @@
+﻿@model SDSExam_Penote.Models.RecyclableType
+
+@{
+    ViewBag.Title = "Edit Recyclable Type";
+}
+
+<h2>Edit Recyclable Type</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(model => model.Id)
+
+    <div class="form-horizontal">
+        <hr />
+
+        @Html.ValidationSummary(true)
+
+        @Html.Partial("_FormFields", Model)
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    </div>
+}

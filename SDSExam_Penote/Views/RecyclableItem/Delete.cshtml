@@ -1,0 +1,24 @@
+﻿@model SDSExam_Penote.Models.RecyclableItem
+
+<h2>Are you sure you want to delete this?</h2>
+
+<dl class="dl-horizontal">
+    <dt>Type</dt>
+    <dd>@Model.RecyclableTypeId</dd>
+
+    <dt>Description</dt>
+    <dd>@Model.ItemDescription</dd>
+
+    <dt>Weight</dt>
+    <dd>@Model.Weight</dd>
+
+    <dt>Computed Rate</dt>
+    <dd>@Model.ComputedRate</dd>
+</dl>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-default" })
+}
